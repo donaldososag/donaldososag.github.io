@@ -1,2 +1,1 @@
-# donaldososag.github.io
-github for Ferhat
+# BGGN239 Spring 2022
